@@ -1,0 +1,17 @@
+{
+    "name": "shive/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shive\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "codemaster321",
+            "email": "shivendrashukla06@gmail.com"
+        }
+    ]
+}
